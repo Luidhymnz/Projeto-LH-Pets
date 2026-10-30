@@ -74,4 +74,5 @@ Acesse o Swagger em: **https://localhost:7100/swagger**
 > Os dados são perdidos ao reiniciar a aplicação (armazenamento em memória).
 
 ## Autor
-Seu Nome — atividade avaliativa individual.
+André Luidhy Menezes Barbosa
+GitName: Luidhymnz
